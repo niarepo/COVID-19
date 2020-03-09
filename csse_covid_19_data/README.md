@@ -4,6 +4,10 @@
 
 This folder contains daily case reports. All timestamps are in UTC (GMT+0).
 
+## External link
+* https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+* https://github.com/CSSEGISandData/COVID-19
+
 ### File naming convention
 MM-DD-YYYY.csv in UTC.
 
